@@ -12,7 +12,7 @@ const { makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromCon
 
 const defaultMenu = {
   before: `
-╭─────═[ INFO USER ]═─────⋆
+╭─────═[ INFO BOT ]═─────⋆
 │╭───────────────···
 ┴│☂︎ *Name:* %name
 ⬡│☂︎ *Tag:* %tag
@@ -301,8 +301,8 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* Ahmad Ali
-┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
+│ ▸ *ᴀᴜᴛʜᴏʀ :* Ayush
+┴ ▸ *ᴏᴡɴᴇʀ :* Ayush
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Give me a break, SIS ^ω^
